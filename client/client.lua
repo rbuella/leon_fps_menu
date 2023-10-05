@@ -1,4 +1,4 @@
-ESX = exports["aurora_base"]:getSharedObject()
+ESX = exports["es_extended"]:getSharedObject()
 
 TriggerEvent('chat:addSuggestion', '/fps', 'Open fps boost menu')
 
